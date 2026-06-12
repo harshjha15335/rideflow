@@ -1,0 +1,5 @@
+[
+  {"stopId":"ST001","name":"Bus Stop A","type":"bus"},
+  {"stopId":"ST002","name":"Metro Platform 2","type":"metro"},
+  {"stopId":"ST003","name":"Tech Park Gate","type":"destination"}
+]

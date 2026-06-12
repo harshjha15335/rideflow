@@ -1,0 +1,36 @@
+[
+  {
+    "id": "pass-all-in-one",
+    "name": "All-in-One Pass",
+    "type": "All-in-One Commuter",
+    "price": 999,
+    "validityDays": 30,
+    "description": "Unlimited access to all Metro Lines and City Buses, +10% off Auto connections.",
+    "qrValue": "RIDEFLOW-ALLINONE-998822",
+    "isActive": true,
+    "color": "from-indigo-600 to-purple-600",
+    "tripsLeft": 42
+  },
+  {
+    "id": "pass-metro",
+    "name": "Metro Express Pass",
+    "type": "Metro Express",
+    "price": 499,
+    "validityDays": 14,
+    "description": "Unlimited rides on the Metro Central & Express Lines. Ideal for office commuters.",
+    "qrValue": "RIDEFLOW-METRO-441188",
+    "isActive": false,
+    "color": "from-blue-600 to-indigo-600"
+  },
+  {
+    "id": "pass-bus",
+    "name": "City Bus Saver",
+    "type": "City Bus Pass",
+    "price": 199,
+    "validityDays": 7,
+    "description": "Flat 50% discount on all local bus services operating within municipal limits.",
+    "qrValue": "RIDEFLOW-BUS-772299",
+    "isActive": false,
+    "color": "from-emerald-600 to-teal-600"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "routeId": "RF-R1",
+    "name": "Multi-Modal Green Link",
+    "summary": "Walk → Bus → Metro → Auto",
+    "totalTime": 54,
+    "totalFare": 82,
+    "transfers": 2,
+    "walkingDistance": 650,
+    "carbonScore": "Low",
+    "safetyScore": "Medium",
+    "reliability": "High",
+    "tag": "Recommended",
+    "score": 78,
+    "mapPathPoints": [
+      { "x": 120, "y": 150 },
+      { "x": 100, "y": 180 },
+      { "x": 280, "y": 190 },
+      { "x": 240, "y": 200 },
+      { "x": 480, "y": 350 }
+    ]
+  },
+  {
+    "routeId": "RF-R2",
+    "name": "Transit Economizer",
+    "summary": "Walk → Train → Bus → Walk",
+    "totalTime": 62,
+    "totalFare": 48,
+    "transfers": 2,
+    "walkingDistance": 900,
+    "carbonScore": "Low",
+    "safetyScore": "High",
+    "reliability": "Medium",
+    "tag": "Cheapest",
+    "score": 84,
+    "mapPathPoints": [
+      { "x": 120, "y": 150 },
+      { "x": 70, "y": 160 },
+      { "x": 150, "y": 110 },
+      { "x": 180, "y": 380 },
+      { "x": 480, "y": 350 }
+    ]
+  },
+  {
+    "routeId": "RF-R3",
+    "name": "Express Direct Combo",
+    "summary": "Auto → Metro → Walk",
+    "totalTime": 45,
+    "totalFare": 120,
+    "transfers": 1,
+    "walkingDistance": 250,
+    "carbonScore": "Medium",
+    "safetyScore": "High",
+    "reliability": "High",
+    "tag": "Fastest",
+    "score": 81,
+    "mapPathPoints": [
+      { "x": 120, "y": 150 },
+      { "x": 150, "y": 120 },
+      { "x": 240, "y": 200 },
+      { "x": 480, "y": 350 }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "legId":"LEG001",
+    "from":"Central Railway Station",
+    "to":"Bus Stop A",
+    "mode":"Walk",
+    "duration":6,
+    "fare":0,
+    "distance":400,
+    "reliability":95,
+    "carbonScore":0,
+    "safetyScore":85
+  },
+  {
+    "legId":"LEG002",
+    "from":"Bus Stop A",
+    "to":"Metro Central",
+    "mode":"Bus",
+    "routeName":"335E",
+    "duration":18,
+    "fare":15,
+    "distance":5000,
+    "reliability":80,
+    "carbonScore":20,
+    "safetyScore":75
+  },
+  {
+    "legId":"LEG003",
+    "from":"Metro Central",
+    "to":"Tech Park Metro",
+    "mode":"Metro",
+    "routeName":"Blue Line",
+    "duration":22,
+    "fare":35,
+    "distance":10000,
+    "reliability":95,
+    "carbonScore":10,
+    "safetyScore":90
+  }
+]

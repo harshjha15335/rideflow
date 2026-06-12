@@ -1,0 +1,20 @@
+[
+  {
+    "id":"LM001",
+    "mode":"Auto",
+    "fare":32,
+    "eta":8
+  },
+  {
+    "id":"LM002",
+    "mode":"Cab",
+    "fare":50,
+    "eta":5
+  },
+  {
+    "id":"LM003",
+    "mode":"Bike",
+    "fare":20,
+    "eta":4
+  }
+]

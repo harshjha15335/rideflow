@@ -1,0 +1,32 @@
+[
+  {
+    "locationId": "LOC001",
+    "name": "Central Railway Station",
+    "type": "railway_station"
+  },
+  {
+    "locationId": "LOC002",
+    "name": "Metro Central",
+    "type": "metro_station"
+  },
+  {
+    "locationId": "LOC003",
+    "name": "City Bus Depot",
+    "type": "bus_stop"
+  },
+  {
+    "locationId": "LOC004",
+    "name": "Tech Park",
+    "type": "destination"
+  },
+  {
+    "locationId": "LOC005",
+    "name": "University Campus",
+    "type": "campus"
+  },
+  {
+    "locationId": "LOC006",
+    "name": "Airport Road",
+    "type": "road"
+  }
+]
